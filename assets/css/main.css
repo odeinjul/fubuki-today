@@ -752,7 +752,7 @@ button,
   -ms-transition: opacity 0.5s ease-in-out;
   transition: opacity 0.5s ease-in-out;
   bottom: 4em;
-  color: rgba(255, 255, 255, 0.5);
+  color: rgba(255, 255, 255, 0.65);
   left: 4em;
   opacity: 0.5;
   position: absolute; }
