@@ -774,7 +774,7 @@ button,
         padding-left: 0; }
     #footer .copyright a {
       color: inherit; }
-  #footer:hover {
+  #footer{
     opacity: 1; }
   #footer > :last-child {
     margin-bottom: 0; }
