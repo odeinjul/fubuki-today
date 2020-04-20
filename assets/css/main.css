@@ -26,13 +26,13 @@ section, summary, time, mark, audio, video {
   }
 html, body, div
 {
-  background-image: url(../bg01.jpg);
+  background-image: url("https://s1.ax1x.com/2020/04/20/JQE0SJ.png");
   background-size: cover;
 }
 @media screen and (max-width: 500px) {
   html,body,div
   {
-    background-image: url(../bg03.jpg);
+    background-image: url("https://s1.ax1x.com/2020/04/20/JQEBl9.png");
     background-size: cover;
   }
 }
