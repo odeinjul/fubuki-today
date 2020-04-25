@@ -1,9 +1,6 @@
 # fubuki-today
 A home page for Shirakami Fubuki
 
-## Thanks
-[HTML5 UP!](https://html5up.net/)
-
 ## Maintainer
 [Odeinjul](https://github.com/odeinul)
 
