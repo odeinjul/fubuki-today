@@ -1,6 +1,9 @@
 # fubuki-today
 A home page for Shirakami Fubuki
 
+## Screenshot
+![Screenshot](https://i.loli.net/2021/03/14/NAxR6m2anUz1D4w.png)
+
 ## Maintainer
 [Odeinjul](https://github.com/odeinul)
 
